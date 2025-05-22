@@ -63,7 +63,7 @@ function Data() {
                 I'm a software engineer with a passion for building web applications and exploring new technologies. 
                 I love to learn and grow in my field, and I'm always looking for new challenges to tackle.
             </p>
-            <a href="#contact" className="button button--">
+            <a href="#contact" className="button button--flex">
                 Say Hello 
 
                 <svg
