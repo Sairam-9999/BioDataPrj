@@ -6,6 +6,7 @@ import About from './components/about/About'
 import Skills from './components/skills/Skills'
 import Services from './components/services/services'
 import Timeline from './components/timeline/Timeline'
+import Contact from './components/contact/Contact'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <Skills />
         <Services />
         <Timeline />
+        <Contact />
       </main>
     </>
   )
