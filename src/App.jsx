@@ -7,6 +7,7 @@ import Skills from './components/skills/Skills'
 import Services from './components/services/services'
 import Timeline from './components/timeline/Timeline'
 import Contact from './components/contact/Contact'
+import Footer from './components/footer/Footer'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
         <Timeline />
         <Contact />
       </main>
+      <Footer />
     </>
   )
 }
