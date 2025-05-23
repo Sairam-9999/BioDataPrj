@@ -72,6 +72,8 @@
 
 html {
   scroll-behavior: smooth;
+  width: 100%; /* Ensure html takes full width */
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
 }
 
 body,
@@ -85,6 +87,8 @@ textarea {
 body {
   background-color: var(--body-color);
   color: var(--text-color);
+  width: 100%; /* Ensure body takes full width */
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
 }
 
 h1,
@@ -170,10 +174,13 @@ img {
 }
 
 #root {
-  max-width: 1280px;
+  /* IMPORTANT: Remove max-width and padding from #root if you want content within it (like the footer) to span full width */
+  /* If you need to constrain main content, apply .container to specific sections/divs within <main> */
+  /* max-width: 1280px; */
   margin: 0 auto;
-  padding: 2rem;
+  /* padding: 2rem; */
   text-align: center;
+  width: 100%; /* Ensure #root also takes full width */
 }
 
 .logo {
