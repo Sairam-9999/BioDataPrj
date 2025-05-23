@@ -8,6 +8,7 @@ import Services from './components/services/services'
 import Timeline from './components/timeline/Timeline'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import ScrollUp from './components/scrollup/ScrollUp'
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <ScrollUp />
     </>
   )
 }
