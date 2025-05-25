@@ -6,9 +6,11 @@ import About from './components/about/About'
 import Skills from './components/skills/Skills'
 import Services from './components/services/services'
 import Timeline from './components/timeline/Timeline'
+import Work from './components/work/Work'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import ScrollUp from './components/scrollup/ScrollUp'
+
 
 function App() {
 
@@ -22,6 +24,7 @@ function App() {
         <Skills />
         <Services />
         <Timeline />
+        <Work />
         <Contact />
       </main>
       <Footer />
