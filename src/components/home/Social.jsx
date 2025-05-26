@@ -3,16 +3,17 @@ import React from "react";
 function Social() {
     return (
         <div className="home__social">
-            <a href="#instagram" className="home__social-icon" target="_blank">
-                <i class="uil uil-instagram"></i>
+
+            <a href="https://www.linkedin.com/in/gcasr/" className="home__social-icon" target="_blank">
+                <i class="uil uil-linkedin"></i>
             </a>
 
-            <a href="#dribbble" className="home__social-icon" target="_blank">
-                <i class="uil uil-dribbble"></i>
-            </a>
-
-            <a href="#github" className="home__social-icon" target="_blank">
+            <a href="https://github.com/Sairam-9999" className="home__social-icon" target="_blank">
                 <i class="uil uil-github-alt"></i>
+            </a>
+
+            <a href="https://www.instagram.com/sairam.9999/" className="home__social-icon" target="_blank">
+                <i class="uil uil-instagram"></i>
             </a>
         </div>
     );
