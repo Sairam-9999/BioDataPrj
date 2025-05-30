@@ -4,7 +4,7 @@ function Social() {
     return (
         <div className="home__social">
 
-            <a href="https://www.linkedin.com/in/gcasr/" className="home__social-icon" target="_blank">
+            <a href="https://www.linkedin.com/in/chaytavya-9999/" className="home__social-icon" target="_blank">
                 <i class="uil uil-linkedin"></i>
             </a>
 
