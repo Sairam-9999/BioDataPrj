@@ -8,7 +8,7 @@ function Info() {
             <h3 className="about__title">
                 Experience
             </h3>
-            <span className="about__subtitle">3+ years</span>
+            <span className="about__subtitle">5+ years</span>
         </div>
 
          <div className="about__grid">

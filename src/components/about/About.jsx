@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/Garikapati_Photo.jpg";
-import Resume from "../../assets/Chaytavya_Resume.pdf";
+import Resume from "../../assets/Anantha_Software_Engineer.pdf";
 import Info from "./Info";
 
 function About() {
