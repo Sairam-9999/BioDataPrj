@@ -27,7 +27,7 @@ function Services() {
                     <div className="services__model-content">
                         <i className="uil uil-times services__model-close" onClick={() => toggleTab(0)}></i>
                         <h3 className="services__model-title">Frontend Developer</h3>
-                        <p className="services__model-description">I'm into this domain for more than 3 years. Both Support and Developement.</p>
+                        <p className="services__model-description">I'm into this domain for more than 5 years. Both Support and Developement.</p>
 
                         <ul className="services__model-services grid">
                             <li className="services__model-service">
@@ -66,7 +66,7 @@ function Services() {
                     <div className="services__model-content">
                         <i className="uil uil-times services__model-close" onClick={() => toggleTab(0)}></i>
                         <h3 className="services__model-title">Backend Developer</h3>
-                        <p className="services__model-description">I'm into this domain for more than 3 years. Both Support and Developement.</p>
+                        <p className="services__model-description">I'm into this domain for more than 5 years. Both Support and Developement.</p>
 
                         <ul className="services__model-services grid">
                             <li className="services__model-service">
